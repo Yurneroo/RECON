@@ -1,2 +1,2 @@
 # RECON
-Face Recognition Attendance System
+Face Recognition Attendance for checking attendance in the list
